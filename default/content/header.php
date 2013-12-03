@@ -221,11 +221,11 @@ $(function(){
 <div class="section area">
   <div class="sect_l fl">
     <h2 class="fl">初中专区</h2>
-    <span class="fr"><a href="/index.php?m=content&c=index&a=lists&catid=177&leibie=试题&nianji_fl=初中">进入>></a> </div>
+    <span class="fr"><a href="/index.php?m=content&c=index&a=lists&catid=177&leibie=试题&nianji_fl=初中">进入>></a></span> </div>
   
   <div class="sect_r fr">
     <h2 class="fl">高中专区</h2>
-    <span class="fr"><a href="/index.php?m=content&c=index&a=lists&catid=177&leibie=试题&nianji_fl=高中">进入>></a></div>
+    <span class="fr"><a href="/index.php?m=content&c=index&a=lists&catid=177&leibie=试题&nianji_fl=高中">进入>></a></span></div>
 </div>
 <div class="mt8"></div>
 <div class="collect area" style="display:none;">
