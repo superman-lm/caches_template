@@ -7,7 +7,7 @@
       <li><img src="<?php echo IMG_PATH;?>zzzsimgs/fontr_pic.jpg" /></li>
       <li><img src="<?php echo IMG_PATH;?>zzzsimgs/fontr_pic.jpg" /></li>
       <li><img src="<?php echo IMG_PATH;?>zzzsimgs/fontr_pic.jpg" /></li>
-    </ul>
+    </ul> 
   </div>
   <div class="fontr_b">
     <p>友情链接：<a href="#">公务员面试</a>  <a href="#">作文网</a> <a href="#">出国</a> <a href="#">在线英语听力室</a> <a href="#">外语教育网</a> <a href="#">高考</a> <a href="#">作文网</a> <a href="#">出国</a> <a href="#">在线英语听力室</a> <a href="#">外语教育网</a> <a href="#">高考</a><a href="#">腾讯高考</a> <a href="#">作文网</a> <a href="#">出国</a> <a href="#">在线英语听力室</a> <a href="#">外语教育网</a> <a href="#">高考</a>  <a href="#">作文网</a> <a href="#">出国</a> <a href="#">在线英语听力室</a> <a href="#">外语教育网</a> <a href="#">高考</a> <a href="#">作文网</a> <a href="#">出国</a> <a href="#">在线英语听力室</a> <a href="#">外语教育网</a> <a href="#">高考</a> <a href="#">更多链接>></a>
